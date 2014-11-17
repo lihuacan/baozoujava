@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="baozoujava"
+  id="myeclipse.1416210021134"
+  context-root="/bzjava"
+  j2ee-spec="6.0"
+  archive="baozoujava.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+
